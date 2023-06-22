@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @KamranRaza786
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-KamranRaza786/KamranRaza786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @KamranRaza
+- 👀 I’m interested in web3
+- 🌱 I’m currently learning chatbot development and Artificial Intelligence.
+- 💞️ I’m looking to collaborate on Machine Learning.
+- 📫 
